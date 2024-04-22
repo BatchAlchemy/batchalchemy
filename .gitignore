@@ -1,0 +1,16 @@
+/temp/
+/tree-sitter-batch/Cargo.lock
+/tree-sitter-batch/Cargo.toml
+/tree-sitter-batch/binding.gyp
+/tree-sitter-batch/bindings/
+/tree-sitter-batch/build/
+/tree-sitter-batch/node_modules/
+/tree-sitter-batch/package-lock.json
+/tree-sitter-batch/parser.exp
+/tree-sitter-batch/parser.lib
+/tree-sitter-batch/parser.obj
+/venv/
+
+/**/.idea/
+/**/*.log
+/**/__pycache__/
