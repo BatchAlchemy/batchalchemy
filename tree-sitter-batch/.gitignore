@@ -1,0 +1,13 @@
+Cargo.lock
+package-lock.json
+node_modules
+build
+*.log
+/.idea
+/src
+/bindings
+parser.exp
+parser.lib
+parser.obj
+cargo.toml
+binding.gyp
